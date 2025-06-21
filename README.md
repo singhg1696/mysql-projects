@@ -12,3 +12,4 @@ It demonstrates SQL fundamentals like:
 - Data analysis mini-projects
 
 All queries are organized and saved as `.sql` files for easy access and learning.
+"# mysql-projects" 
